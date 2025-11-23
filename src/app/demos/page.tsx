@@ -23,13 +23,13 @@ const demos = [
     title: 'Layouts & Navigation',
     description: 'Shared UI and persistent state',
     path: '/demos/layouts',
-    status: 'New',
+    status: 'Complete',
   },
   {
     title: 'Data Fetching',
     description: 'Async/await in Server Components',
     path: '/demos/data-fetching',
-    status: 'Planned',
+    status: 'New',
   },
 ];
 

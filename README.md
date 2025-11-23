@@ -42,4 +42,7 @@ You can view the live demos at `/demos` or read the documentation below:
 
 - [File-system Routing](docs/demos/routing.md)
 - [Server vs Client Components](docs/demos/rendering.md)
+- [Data Fetching & Streaming](docs/demos/data-fetching.md)
+- [Deep Dive: Streaming & Suspense](docs/demos/streaming-deep-dive.md)
+
 

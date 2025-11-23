@@ -9,6 +9,8 @@ export default function Counter() {
     console.log('Client Component mounted in browser');
   }, []);
 
+  
+
   return (
     <div className="p-6 border-2 border-green-500 rounded-lg bg-green-50 dark:bg-green-900/20 relative mt-4">
       <div className="absolute -top-3 left-4 bg-green-500 text-white px-2 py-0.5 text-sm font-bold rounded">
