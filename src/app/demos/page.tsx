@@ -14,10 +14,16 @@ const demos = [
     status: 'Complete',
   },
   {
+    title: 'Client-Side List (Dynamic)',
+    description: 'Proving SSR limits with dynamic state',
+    path: '/demos/rendering/client-list',
+    status: 'Complete',
+  },
+  {
     title: 'Layouts & Navigation',
     description: 'Shared UI and persistent state',
     path: '/demos/layouts',
-    status: 'Planned',
+    status: 'New',
   },
   {
     title: 'Data Fetching',
