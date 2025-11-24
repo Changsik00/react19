@@ -31,6 +31,12 @@ const demos = [
     path: '/demos/data-fetching',
     status: 'Complete',
   },
+  {
+    title: 'Dynamic Routing',
+    description: 'Using [id] for dynamic pages',
+    path: '/demos/dynamic-routing',
+    status: 'New',
+  },
 ];
 
 export default function Home() {

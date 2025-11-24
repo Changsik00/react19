@@ -44,5 +44,7 @@ You can view the live demos at `/demos` or read the documentation below:
 - [Server vs Client Components](docs/demos/rendering.md)
 - [Data Fetching & Streaming](docs/demos/data-fetching.md)
 - [Deep Dive: Streaming & Suspense](docs/demos/streaming-deep-dive.md)
+- [Dynamic Routing](docs/demos/dynamic-routing.md)
+
 
 

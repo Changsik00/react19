@@ -29,6 +29,12 @@ const demos = [
     title: 'Data Fetching',
     description: 'Async/await in Server Components',
     path: '/demos/data-fetching',
+    status: 'Complete',
+  },
+  {
+    title: 'Dynamic Routing',
+    description: 'Using [id] for dynamic pages',
+    path: '/demos/dynamic-routing',
     status: 'New',
   },
 ];
